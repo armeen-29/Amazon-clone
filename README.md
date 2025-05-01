@@ -35,7 +35,7 @@ You can clone the repository and open `index.html` in your browser.
 ---
 
 ## 🤝 Acknowledgement
-Thanks to [Shradha Khapra] (https://github.com/shradha-khapra) for the tutorial that helped build this.
+Thanks to [Shradha Khapra](https://github.com/shradha-khapra) for the tutorial that helped build this.
 
 ---
 
